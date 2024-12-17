@@ -34,3 +34,4 @@ C:/1CBase/cafe-app/Cafe.Data/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
 /home/t9rb/Загрузки/cafe-app/Cafe.Data/obj/Debug/net8.0/Cafe.Data.pdb
 /home/t9rb/Загрузки/cafe-app/Cafe.Data/obj/Debug/net8.0/Cafe.Data.genruntimeconfig.cache
 /home/t9rb/Загрузки/cafe-app/Cafe.Data/obj/Debug/net8.0/ref/Cafe.Data.dll
+/home/t9rb/Загрузки/cafe-app/Cafe.Data/obj/Debug/net8.0/Cafe.Data.sourcelink.json

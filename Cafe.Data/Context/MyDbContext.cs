@@ -38,7 +38,7 @@ public partial class MyDbContext : DbContext
         var basePath = currentDirectory.Replace(@"\Cafe\bin\Debug\net8.0", "");
         var dbPath = Path.Combine(basePath, "Cafe.Data", "identifier.sqlite");
 
-        optionsBuilder.UseSqlite($"Data Source={dbPath};");
+        optionsBuilder.UseSqlite($"Data Source={"/home/t9rb/Загрузки/cafe-app/Cafe.Data/identifier.sqlite"};");
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
